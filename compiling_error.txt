@@ -1,0 +1,6 @@
+C:\Users\otaco\Desktop\DevProjects\Test_Codes\testcode_0001.cpp:5:1: error: expected '{' before 'int'
+ int main(void) {
+ ^~~
+C:\Users\otaco\Desktop\DevProjects\Test_Codes\testcode_0001.cpp:7:1: error: expected '}' at end of input
+ }
+ ^
